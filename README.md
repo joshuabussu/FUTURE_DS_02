@@ -1,15 +1,20 @@
 # FUTURE_DS_02
 Telco Customer Churn Analysis Dashboard
+
 Overview
 This project analyzes customer churn patterns in a telecom company using Power BI. The dashboard helps identify factors influencing customer retention and churn through interactive visualizations and key performance indicators (KPIs).
+
 Objectives
+
 Analyze customer churn behavior.
 Identify high-risk customer segments.
 Understand the impact of contract types, internet services, and payment methods on churn.
 Provide insights that can help improve customer retention.
+
 Tools Used
 Power BI
 Excel Web
+
 Key Metrics
 Total Customers
 Churned Customers
